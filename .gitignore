@@ -1,0 +1,4 @@
+.vscode/
+JUCE/
+libtorch/
+build/
